@@ -1,5 +1,5 @@
 '''mermaid
-graph LR. Graph;
+flowchart TD
   A[Начало графика] --> B{Продолжение графика};
   B -- Yes --> C[Ну да и?];
   B -- No --> D[Нет так нет.];
